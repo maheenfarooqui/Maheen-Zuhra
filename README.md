@@ -98,5 +98,5 @@ To secure a **Front-End / React Developer** role where I can apply my JavaScript
 ---
 
 <p align="center">
-  🌸 *Focused on growth • Open to opportunities • React in progress* 🌸
+   *Focused on growth • Open to opportunities • React in progress* 
 </p>
